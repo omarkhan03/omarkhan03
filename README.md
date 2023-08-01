@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a software developer and an honours CS student
 <br><br> 💻 &nbsp; Fullstack Web Development
 <br>📱 &nbsp;Mobile Apps &nbsp; *(Android  |  iOS)*
 <br>👓 &nbsp;Spatial Computing  &nbsp; *(AR  |  VR |  Digital Twins)*
-<br>🧠👁️ &nbsp;Machine Learning & Computer Vision
+<br>🧠 &nbsp;Machine Learning & Computer Vision
 
 I plan to continue learning as much as I can about these areas and how they intersect. If you're interested in collaborating on something, feel free to reach out to me using the buttons below OR the links on my portfolio website: https://okhan.me/.
 
