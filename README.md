@@ -18,4 +18,4 @@ If you're interested in learning more about me or my projects, visit https://okh
 
 ## 📊 Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=omarkhan03&theme=tokyonight)](https://git.io/streak-stats)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarkhan03&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" width="35%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarkhan03&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" width="40%" /> 
