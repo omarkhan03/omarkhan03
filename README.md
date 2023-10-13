@@ -18,6 +18,6 @@ If you're interested in learning more about me or my projects, visit https://okh
 
 ## 📊 Stats
 <div float="left" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarkhan03&theme=tokyonight&hide_border=false" width="56%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarkhan03&theme=tokyonight&hide_border=false" width="56%" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarkhan03&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" width="40%" /> 
 </div>
