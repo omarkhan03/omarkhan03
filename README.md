@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Omar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 Welcome to my GitHub profile! I'm a software developer and an honours CS student at the University of Calgary. I'm driven by my curiosity of how technology works and how we can use it to make the world a better place. I'm particularly interested in:
-<br><br>💻 &nbsp; Fullstack Web Development
+<br><br>💻 &nbsp; Fullstack Web/App Development
 <br>👓 &nbsp; 3D Spatial Computing (Unity, VR/AR, Game Dev, etc.,)
-<br>📱 &nbsp; Android App Development
+<br>👤 &nbsp; Human-Computer Interaction
 
 I also have a keen interest in HCI, XR, simulation and aerospace, and I'd love to work / conduct research in any of those fields.
 If you're interested in learning more about me or my projects, visit https://okhan.me/. And please don't hesitate to shoot me an email if you want to collaborate!
