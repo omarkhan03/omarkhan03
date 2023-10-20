@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a software developer and an honours CS student
 <br>👓 &nbsp; 3D Spatial Computing (Unity, VR/AR, Game Dev, etc.,)
 <br>👤 &nbsp; Human-Computer Interaction
 
-I also have a keen interest in HCI, XR, simulation and aerospace, and I'd love to work / conduct research in any of those fields.
+I have a keen interest in XR, HCI, wearable computing, embedded systems, and aerospace, and I'd love to work / conduct research in any of those fields.
 If you're interested in learning more about me or my projects, visit https://okhan.me/. And please don't hesitate to shoot me an email if you want to collaborate!
 
 ## 🌐 Find me on:
