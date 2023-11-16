@@ -1,7 +1,6 @@
 <h1 align="center">Hey, I'm Omar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 Welcome to my GitHub profile! I'm a software developer and an honours CS student at the University of Calgary. I'm driven by my curiosity of how technology works and how we can use it to make the world a better place. I'm particularly interested in:
-
 <br><br>👓 &nbsp; 3D Spatial Computing (Unity, VR/AR, Game Dev, etc.,)
 <br>💻 &nbsp; Fullstack Web/App Development
 <br>👤 &nbsp; Human-Computer Interaction
