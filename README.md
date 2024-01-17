@@ -1,12 +1,12 @@
 <h1 align="center">Hey, I'm Omar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 Welcome to my GitHub profile! I'm a software developer and an honours CS student at the University of Calgary. I'm driven by my curiosity of how technology works and how we can use it to make the world a better place. I'm particularly interested in:
-<br><br>👓 &nbsp; 3D Spatial Computing (Unity, VR/AR, Game Dev, etc.,)
-<br>💻 &nbsp; Fullstack Web/App Development
+<br><br>👓 &nbsp; Virtual Reality, Augmented Reality, and Mixed Reality
 <br>👤 &nbsp; Human-Computer Interaction
+<br>💻 &nbsp; Fullstack Web and App Development
 
-I have a keen interest in XR, HCI, wearable computing, embedded systems, and aerospace, and I'd love to work / conduct research in any of those fields.
-If you're interested in learning more about me or my projects, visit https://okhan.me/. And please don't hesitate to shoot me an email if you want to collaborate!
+I have a keen interest in VR, haptics, and HCI.
+If you're interested in learning more about me, visit https://okhan.me/. And please don't hesitate to shoot me an email if you want to collaborate!
 
 ## 🌐 Find me on:
 [![email](https://img.shields.io/badge/oakhan.03@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:oakhan.03@gmail.com)
