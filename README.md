@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Omar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-Welcome to my GitHub profile! I'm an honours BSc student in Computer Science at the University of Calgary. I'm driven by my curiosity of how technology works and how we can use it to make the world a better place. I have keen interests in:
+Welcome to my GitHub profile! I'm an honours BSc student in Computer Science at the University of Calgary. I'm driven by my curiosity of how technology works and how we can use it to solve specific and personalized problems. I have keen interests in:
 <br><br>👓 &nbsp; Virtual Reality and Augmented Reality (including Mixed Reality)
 <br>👤 &nbsp; The broad field of Human-Computer Interaction
 <br>💻 &nbsp; Fullstack Web and App Development
