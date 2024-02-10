@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm an honours BSc student in Computer Science at 
 <br>💻 &nbsp; Fullstack Web and App Development
 
 After I graduate, I would like to conduct academic research in VR, haptics, or HCI.
-If you're interested in learning more about me, visit https://okhan.me/. And please don't hesitate to shoot me an email if you want to collaborate!
+If you're interested in learning more about me, visit https://okhan.me/, and please don't hesitate to shoot me an email if you want to collaborate!
 
 ## 🌐 Find me on:
 [![email](https://img.shields.io/badge/oakhan.03@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:oakhan.03@gmail.com)
