@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Omar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-Welcome to my GitHub profile! I'm a software developer and an honours CS student at the University of Calgary. I'm driven by my curiosity of how technology works and how we can use it to make the world a better place. I'm particularly interested in:
-<br><br>👓 &nbsp; Virtual Reality, Augmented Reality, and Mixed Reality
-<br>👤 &nbsp; Human-Computer Interaction
+Welcome to my GitHub profile! I'm an honours BSc student in Computer Science at the University of Calgary. I'm driven by my curiosity of how technology works and how we can use it to make the world a better place. I have keen interests in:
+<br><br>👓 &nbsp; Virtual Reality and Augmented Reality (including Mixed Reality)
+<br>👤 &nbsp; The broad field of Human-Computer Interaction
 <br>💻 &nbsp; Fullstack Web and App Development
 
-I have a keen interest in VR, haptics, and HCI.
+After I graduate, I would like to conduct academic research in VR, haptics, or HCI.
 If you're interested in learning more about me, visit https://okhan.me/. And please don't hesitate to shoot me an email if you want to collaborate!
 
 ## 🌐 Find me on:
