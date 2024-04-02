@@ -2,11 +2,11 @@
 
 Welcome to my GitHub profile! I'm an honours BSc student in Computer Science at the University of Calgary. I'm driven by my curiosity of how technology works and how we can use it to solve specific and personalized problems. I have keen interests in:
 <br><br>👓 &nbsp; Virtual Reality and Augmented Reality (including Mixed Reality)
-<br>👤 &nbsp; The broad field of Human-Computer Interaction
-<br>💻 &nbsp; Fullstack Web and App Development
+<br>👤 &nbsp; Human-Computer Interaction
+<br>💻 &nbsp; Computer Graphics and Games
 
-After I graduate, I would like to conduct academic research in VR, haptics, or HCI.
-If you're interested in learning more about me, visit https://okhan.me/, and please don't hesitate to shoot me an email if you want to collaborate!
+After I graduate, I want to go to grad school for VR research.
+If you're interested in learning more about me, don't hesitate to shoot me an email if you want to collaborate!
 
 ## 🌐 Find me on:
 [![email](https://img.shields.io/badge/oakhan.03@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:oakhan.03@gmail.com)
