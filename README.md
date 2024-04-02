@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm an honours BSc student in Computer Science at 
 <br>👾 &nbsp; Computer Graphics and Games
 
 After I graduate, I want to go to grad school for VR research.
-If you're interested in learning more about me, don't hesitate to shoot me an email if you want to collaborate!
+If you have any questions or want to collaborate, don't hesitate to shoot me an email or message me on Discord!
 
 ## 🌐 Find me on:
 [![email](https://img.shields.io/badge/oakhan.03@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:oakhan.03@gmail.com)
