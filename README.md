@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm an honours BSc student in Computer Science at the University of Calgary. I'm driven by my curiosity of how technology works and how we can use it to solve specific and personalized problems. I have keen interests in:
 <br><br>👓 &nbsp; Virtual Reality and Augmented Reality (including Mixed Reality)
 <br>👤 &nbsp; Human-Computer Interaction
-<br>💻 &nbsp; Computer Graphics and Games
+<br>👾 &nbsp; Computer Graphics and Games
 
 After I graduate, I want to go to grad school for VR research.
 If you're interested in learning more about me, don't hesitate to shoot me an email if you want to collaborate!
