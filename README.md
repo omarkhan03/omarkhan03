@@ -3,7 +3,7 @@
 I am an honours BSc student in Computer Science at the University of Calgary, and a human-computer interaction researcher. I am driven to push technology in a direction that will allow people to create enriching, impactful, and authentic experiences. These are especially important in our current technological landscape, in which AI has been mishandled to pollute our cyberspace with uninspired and inauthentic content. 
 
 My research interests include:
-<br><br>👓 &nbsp; Virtual Reality and Augmented Reality (including Mixed Reality)
+<br><br>👓 &nbsp; Extended Reality — VR, AR, MR
 <br>👥 &nbsp; Intelligent Virtual Agents and Assistants
 <br>🫳 &nbsp; Tangible User Interfaces
 
