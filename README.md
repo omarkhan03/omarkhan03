@@ -1,11 +1,10 @@
 <h1 align="center">Hey, I'm Omar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-I am an honours BSc student in Computer Science at the University of Calgary, and a human-computer interaction researcher. I am driven to push technology in a direction that will allow people to create enriching, impactful, and authentic experiences. These are especially important in our current technological landscape, in which AI has been mishandled to pollute our cyberspace with uninspired and inauthentic content. 
+I am a Research Associate at the University of Calgary, and a human-computer interaction researcher. I graduated with a Bachelor of Science in Computer Science from the University of Calgary.
 
 My research interests include:
-<br><br>👓 &nbsp; Extended Reality — VR, AR, MR
-<br>👥 &nbsp; Intelligent Virtual Agents and Assistants
-<br>🫳 &nbsp; Tangible User Interfaces
+<br><br>🥽 &nbsp; Extended Reality — XR, VR, AR
+<br>👤 &nbsp; Avatars and Virtual Humans
 
 Find more info on my [personal webpage](https://okhan.me).
 
