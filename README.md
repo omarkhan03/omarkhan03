@@ -1,9 +1,7 @@
 <h1 align="center">Hey, I'm Omar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 I am a PhD student and Graduate Research Assistant at Drexel University. 
-
 I completed my Bachelor of Science in Computer Science with First-Class Honours from the University of Calgary.
-
 Here you'll probably find repositories and code related to my research.
 
 My research interests include:
