@@ -1,12 +1,12 @@
 <h1 align="center">Hey, I'm Omar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-I am a PhD student and Graduate Research Assistant at Drexel University. 
-I completed my Bachelor of Science in Computer Science with First-Class Honours from the University of Calgary.
-Here you'll probably find repositories and code related to my research.
+I am a PhD student in Computer Science, and a Graduate Research Assistant in the [DIVA Lab](https://divalab.cci.drexel.edu/) at Drexel University.
+<br>I received a Bachelor of Science in Computer Science with First-Class Honours from the University of Calgary, where I was an undergraduate researcher in the [HXI Lab](https://www.hxi-lab.ca/).
+<br>Here you'll probably find repositories and code related to my research.
 
 My research interests include:
-<br><br>🥽 &nbsp; Extended Reality — XR, VR, AR
-<br>👤 &nbsp; Avatars and Virtual Humans
+<br><br>🥽 &nbsp; Virtual and Augmented Reality
+<br>👤 &nbsp; Embodiment of Avatars in Virtual Environments
 
 Find more info on my [personal webpage](https://okhan.me).
 
