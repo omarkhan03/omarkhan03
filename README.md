@@ -5,8 +5,8 @@ I am a PhD student in Computer Science, and a Graduate Research Assistant in the
 <br>Here you'll probably find repositories and code related to my research.
 
 My research interests currently include:
-<br>👤 &nbsp; Embodiment of Avatars in VR
-<br><br>🥽 &nbsp; Social VR
+<br><br>👤 &nbsp; Embodiment of Avatars in VR
+<br>🥽 &nbsp; Social VR
 <br>🫳 &nbsp; VR Haptics
 
 Find more info on my [personal webpage](https://okhan.me).
