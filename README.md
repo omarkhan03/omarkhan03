@@ -4,10 +4,7 @@ I am a PhD student in Computer Science, and a Graduate Research Assistant in the
 <br>I received a Bachelor of Science in Computer Science with First-Class Honours from the University of Calgary, where I was an undergraduate researcher in the [HXI Lab](https://www.hxi-lab.ca/).
 <br>Here you'll probably find repositories and code related to my research.
 
-My research interests currently include:
-<br><br>👤 &nbsp; Embodiment of Avatars in VR
-<br>🥽 &nbsp; Social VR
-<br>🫳 &nbsp; VR Haptics
+My research interests span embodiment, interaction, and perception in XR (AR, VR, MR), with a focus on avatars, social VR, multisensory perception, body perception, and tangible/physical user interfaces, all within the larger scope of human-centered computing.
 
 Find more info on my [personal webpage](https://okhan.me).
 
